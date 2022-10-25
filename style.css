@@ -14,7 +14,7 @@ body {
   width: 200px;
   height: 20vh;
   border: none;
-  background-color: rgb(196, 196, 196);
-  box-shadow: inset 5px 5px 5px #333333;
+  background-color: rgb(255, 225, 126);
+  box-shadow: inset 5px 5px 5px #464646;
   border-radius: 4px;
 }
